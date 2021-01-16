@@ -3,20 +3,9 @@
 
 **About**
 
-Hello! I am a recent graduate of the Arizona State University Class of 2020. I have a degree in Computer Science (Software Engineering), and am now looking for full-time software engineering work. I specialize in web technology; if you're looking to hire a full-stack developer, please reach out!
+Currently building the Dopr platform for [Secret Chord Laboratories](https://www.secretchordlaboratories.com/) ([@secret-chord](https://github.com/secret-chord)).
 
-Check out my [portfolio](https://www.adelerium.dev/projects/) for a collection of my past work.
-
-**Technologies**
-
-| Frontend       | Backend      | DevOps           | Other      | Design  | Learning        |
-| -------------- | ------------ | ---------------- | ---------- | ------- | --------------- |
-| `TypeScript`   | `Typescript` | `Docker`         | `Jest`     | `Figma` | `Microservices` |
-| `React`        | `Node.js`    | `Docker Compose` | `ESLint`   |         | `React Native`  |
-| `Vue`          | `Express`    |                  | `Prettier` |         | `Go`            |
-| `Gatsby.js`    | `GraphQL`    |                  |            |         |                 |
-| `Next.js`      | `PostgreSQL` |                  |            |         |                 |
-| `Tailwind CSS` | `TypeORM`    |                  |            |         |                 |
+My [portfolio](https://www.adelerium.dev/) is pretty neat. Check it out if you're curious.
 
 **Stats**
 
