@@ -3,7 +3,7 @@
 
 **About**
 
-Currently building the Dopr platform for [Secret Chord Laboratories](https://www.secretchordlaboratories.com/) ([@secret-chord](https://github.com/secret-chord)).
+Currently building the dopr platform for [Secret Chord Laboratories](https://www.secretchordlaboratories.com/) ([@secret-chord](https://github.com/secret-chord)).
 
 My [portfolio](https://www.adelerium.dev/) is pretty neat. Check it out if you're curious.
 
